@@ -38,7 +38,7 @@ Fortunately, we have the oh-my-zsh
 [oh-my-zsh][] is a customized solution of zsh configuration, which is modular  
 Only few steps, your will own a beautiful teriminal
 
-[oh-my-zsh][] prject: <https://github.com/robbyrussell/oh-my-zsh>  
+[oh-my-zsh][] project: <https://github.com/robbyrussell/oh-my-zsh>  
 
 After installation, oh-my-zsh will generate a new `.zshrc` instead of old `~/.zshrc`
 
