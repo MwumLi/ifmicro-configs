@@ -75,3 +75,6 @@ Notice :
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh "oh-my-zsh Github 地址"  
 [Term-ExtendedColor-0.224.tar.gz]: http://search.cpan.org/CPAN/authors/id/W/WO/WOLDRICH/Term-ExtendedColor-0.224.tar.gz
 
+## SSH
+
+add my ssh keys and encrypt it
