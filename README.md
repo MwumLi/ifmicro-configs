@@ -78,3 +78,27 @@ Notice :
 ## SSH
 
 add my ssh keys and encrypt it
+
+## man page
+
+### Highlight
+
+Two method to highlight man page  :
+
+1. `man [command]` : change colorscheme to highlight man page  
+2. `vman [comman]` : open man page by vim's readonly mode
+
+### Installation
+
+Man manual has been installed in Ubuntu by default  
+If not installed in your os or update your man page, you can :  
+
+    $ git clone http://git.kernel.org/pub/scm/docs/man-pages/man-pages
+    $ cd man-pages && sudo make
+
+### Reference
+
+1. [man page](http://www.dreamxu.com/books/osg/linux/man-page.html)
+2. [Download Page](https://www.kernel.org/doc/man-pages/download.html)  
+3. [Github Project](https://github.com/mkerrisk/man-pages)  
+
