@@ -42,7 +42,7 @@ Only few steps, your will own a beautiful teriminal
 
 After installation, oh-my-zsh will generate a new `.zshrc` instead of old `~/.zshrc`
 
-### Change Theme `trap00r`
+### Change Theme `trapd00r`
 
 There is a default theme `robbyrussell` in `~/.zshrc`  
 But it's so simple that you could not like it(At least I don't like)
@@ -53,7 +53,7 @@ I prefer `~/.oh-my-zsh/themes/trapd00r.zsh-theme` , do below :
 
 1. in `~/.zshrc` :  
 
-        ZSH_THEME="trap00r"
+        ZSH_THEME="trapd00r"
 
 2. move `zsh_path` to bin PATH :  
 
