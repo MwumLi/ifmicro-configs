@@ -11,6 +11,8 @@ patch:
     - schema: luna_pinyin_simp
     - schema: luna_pinyin_tw
 
+  menu/page_size: 5			    # 定制每页候选数
+
   key_binder/bindings:                      # 以方括号换页
     - when: paging
       accept: bracketleft

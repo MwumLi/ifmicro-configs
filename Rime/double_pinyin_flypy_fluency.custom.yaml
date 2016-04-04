@@ -1,0 +1,8 @@
+# double_pinyin_flypy_fluency.custom.yaml
+# 自定义小鹤双拼-输入流输入方案
+
+patch:
+  punctuator:
+    half_shape:		# 自定义词组,比如当中文键入 +, 则上屏 +_+
+      "+": "+_+"
+      "-": "^v^"
