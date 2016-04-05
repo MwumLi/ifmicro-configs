@@ -29,3 +29,7 @@ patch:
 #   谷歌 - google
 #   晒经石 - solarized_rock
 #   简约白 - clean_white
+
+  app_options:					# 设置特定程序的初始输入状态
+    com.apple.Spotlight:			# Spotlight 的 CFBundleIdentifier, 位于 /System/Library/CoreServices/Spotlight.app/Contents/Info.plist
+      ascii_mode: true				# 默认开启英文输入  
