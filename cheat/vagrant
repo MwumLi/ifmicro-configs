@@ -34,6 +34,9 @@ vagrant halt
 # Hibernate vm
 vagrant suspend
 
+# 从休眠中恢复 vm
+vagrant resume
+
 # Restart vm
 vagrant reload
 
@@ -43,8 +46,8 @@ vagrant reload --provision
 # 删除当前 vagrant 虚拟机, 但是并不能删除 box
 vagrant destroy
 
-# 查看 vagrant 状态  
+# 查看 vagrant 状态
 vagrant status
 
-# 打包当前 vagrant 环境  
+# 打包当前 vagrant 环境
 vagrant packgae
